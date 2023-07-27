@@ -1,12 +1,4 @@
-<<<<<<< Updated upstream
 
-
-function App() {
-  return (
-    <>
-      <div className="text-red-500">check Tailwincss</div>
-    </>      
-=======
 import React from "react";
 import "./App.css";
 import "./index.css";
@@ -29,7 +21,6 @@ function App() {
         <Route path="/article" element={<Article/>}/>
       </Routes>
     </Router>
->>>>>>> Stashed changes
   );
 }
 
